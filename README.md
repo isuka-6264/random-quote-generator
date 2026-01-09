@@ -16,3 +16,7 @@ A simple command-line application that prints a random quote loaded from a text 
 ## Author
 isuka-6264
 Во Мань Линь - БИВТ-24-3
+
+## NOTES!!!
+The program focus on back-end and not front-end, so the front-end is not implemented.
+When will there be front-end? - idk, in the future?
